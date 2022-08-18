@@ -22,12 +22,3 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-# Final Product 
-After adjusting and cleaning up the code, the final website looks as follows: 
-1. http://127.0.0.1:5501/index.html 
-2. http://127.0.0.1:5501/index.html 
-3. http://127.0.0.1:5501/index.html 
-
-# Website Link 
-http://127.0.0.1:5501/index.html 
